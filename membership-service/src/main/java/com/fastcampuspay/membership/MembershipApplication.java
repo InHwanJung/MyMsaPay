@@ -9,5 +9,4 @@ public class MembershipApplication {
         SpringApplication.run(MembershipApplication.class, args);
     }
 }
-
-//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
+//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

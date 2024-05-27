@@ -1,4 +1,4 @@
-package com.fastcampuspay.membership.application.port.out.com.fastcampuspay.membership;
+package com.fastcampuspay.membership.application.port.out;
 
 import com.fastcampuspay.membership.adapter.out.persistence.MembershipJpaEntity;
 import com.fastcampuspay.membership.domain.Membership;

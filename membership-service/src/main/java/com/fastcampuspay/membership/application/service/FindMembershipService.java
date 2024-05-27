@@ -3,9 +3,9 @@ package  com.fastcampuspay.membership.application.service;
 import com.fastcampuspay.membership.adapter.out.persistence.MembershipJpaEntity;
 import com.fastcampuspay.membership.adapter.out.persistence.MembershipMapper;
 import com.fastcampuspay.membership.application.port.in.FindMembershipCommand;
-import com.fastcampuspay.membership.application.port.out.com.fastcampuspay.membership.FindMembershipPort;
+import com.fastcampuspay.membership.application.port.out.FindMembershipPort;
 import com.fastcampuspay.membership.domain.Membership;
-import common.UseCase;
+import com.fastcampuspay.common.UseCase;
 import com.fastcampuspay.membership.application.port.in.FindMembershipUseCase;
 import lombok.RequiredArgsConstructor;
 
